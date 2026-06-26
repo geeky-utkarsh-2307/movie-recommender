@@ -1,0 +1,9 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Local model artifacts
+*.pkl
+
+# Notebook checkpoints
+.ipynb_checkpoints/
